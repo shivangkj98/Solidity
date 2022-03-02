@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-
+// For using this code you have to imprt Allowance.sol
 pragma solidity 0.8.1;
 
 
